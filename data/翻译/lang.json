@@ -1,0 +1,92 @@
+[
+    {
+      "reference": "一屠晚归，担中肉尽，止有剩骨。",
+      "student_response": "一个屠户傍晚回家，担子里的肉已经卖完了，只剩下骨头。",
+      "score": 93
+    },
+    {
+      "reference": "途中两狼，缀行甚远。",
+      "student_response": "路上遇到两只狼，紧跟着走了很远。",
+      "score": 93
+    },
+    {
+      "reference": "屠惧，投以骨。",
+      "student_response": "屠户害怕了，把骨头扔给狼。",
+      "score": 94
+    },
+    {
+      "reference": "一狼得骨止，一狼仍从。",
+      "student_response": "一只狼得到骨头停下了，另一只狼仍然跟着。",
+      "score": 94
+    },
+    {
+      "reference": "复投之，后狼止而前狼又至。",
+      "student_response": "屠户又把骨头扔给狼，后面的狼停下了，可是前面的狼又到了。",
+      "score": 94
+    },
+    {
+      "reference": "骨已尽矣，而两狼之并驱如故。",
+      "student_response": "骨头已经扔完了，但是两只狼像原来一样一起追赶。",
+      "score": 95
+    },
+    {
+      "reference": "屠大窘，恐前后受其敌。",
+      "student_response": "屠户非常困窘急迫，恐怕前后一起受到狼的攻击。",
+      "score": 94
+    },
+    {
+      "reference": "顾野有麦场，场主积薪其中，苫蔽成丘。",
+      "student_response": "屠户看见田野里有一个打麦场，打麦场的主人把柴草堆积在打麦场里，覆盖成小山似的。",
+      "score": 95
+    },
+    {
+      "reference": "屠乃奔倚其下，弛担持刀。",
+      "student_response": "屠户于是跑过去靠在柴草堆的下面，放下担子拿起屠刀。",
+      "score": 94
+    },
+    {
+      "reference": "狼不敢前，眈眈相向。",
+      "student_response": "两只狼都不敢上前，瞪着眼睛朝着屠户。",
+      "score": 94
+    },
+    {
+      "reference": "少时，一狼径去，其一犬坐于前。",
+      "student_response": "一会儿，一只狼径直走开了，另一只狼像狗似的蹲坐在屠户的前面。",
+      "score": 95
+    },
+    {
+      "reference": "久之，目似瞑，意暇甚。",
+      "student_response": "时间长了，那只狼的眼睛似乎闭上了，神情悠闲得很。",
+      "score": 94
+    },
+    {
+      "reference": "屠暴起，以刀劈狼首，又数刀毙之。",
+      "student_response": "屠户突然跳起，用刀砍狼的脑袋，又连砍几刀把狼杀死。",
+      "score": 95
+    },
+    {
+      "reference": "方欲行，转视积薪后，一狼洞其中，意将隧入以攻其后也。",
+      "student_response": "屠户刚要上路，转到柴草堆后面一看，只见另一只狼正在柴草堆里打洞，想要钻过去从背后对屠户进行攻击。",
+      "score": 95
+    },
+    {
+      "reference": "身已半入，止露尻尾。",
+      "student_response": "狼的身子已经钻进一半，只有屁股和尾巴露在外面。",
+      "score": 94
+    },
+    {
+      "reference": "屠自后断其股，亦毙之。",
+      "student_response": "屠户从后面砍断了狼的后腿，也把狼杀死。",
+      "score": 94
+    },
+    {
+      "reference": "乃悟前狼假寐，盖以诱敌。",
+      "student_response": "这才明白前面的那只狼假装睡觉，原来是用来诱惑敌方的。",
+      "score": 95
+    },
+    {
+      "reference": "狼亦黠矣，而顷刻两毙，禽兽之变诈几何哉？止增笑耳。",
+      "student_response": "狼也太狡猾了，可是一会儿两只狼都被杀死，禽兽的欺骗手段能有多少呢？只不过给人增加笑料罢了。",
+      "score": 95
+    }
+] 

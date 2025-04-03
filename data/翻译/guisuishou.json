@@ -1,0 +1,37 @@
+[
+    {
+      "reference": "神龟虽寿，犹有竟时。",
+      "student_response": "神龟虽然长寿，但终有死亡的时候。",
+      "score": 94
+    },
+    {
+      "reference": "腾蛇乘雾，终为土灰。",
+      "student_response": "腾蛇虽然能腾云驾雾，但终究也会化为土灰。",
+      "score": 95
+    },
+    {
+      "reference": "老骥伏枥，志在千里。",
+      "student_response": "年老的骏马虽然伏在马槽里，但它的志向仍然在千里之外。",
+      "score": 95
+    },
+    {
+      "reference": "烈士暮年，壮心不已。",
+      "student_response": "有远大抱负的人到了晚年，奋发思进的雄心不会止息。",
+      "score": 94
+    },
+    {
+      "reference": "盈缩之期，不但在天。",
+      "student_response": "人的寿命长短，不只是由上天决定的。",
+      "score": 94
+    },
+    {
+      "reference": "养怡之福，可得永年。",
+      "student_response": "只要自己调养好身心，也可以益寿延年。",
+      "score": 95
+    },
+    {
+      "reference": "幸甚至哉，歌以咏志。",
+      "student_response": "真是幸运极了，用歌唱来表达自己的思想感情吧。",
+      "score": 94
+    }
+] 

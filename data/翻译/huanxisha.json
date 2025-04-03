@@ -1,0 +1,22 @@
+[
+    {
+      "reference": "一曲新词酒一杯，去年天气旧亭台。",
+      "student_response": "听一支新曲喝一杯美酒，还是去年的天气旧日的亭台。",
+      "score": 94
+    },
+    {
+      "reference": "夕阳西下几时回？",
+      "student_response": "西落的夕阳何时才能回来？",
+      "score": 93
+    },
+    {
+      "reference": "无可奈何花落去，似曾相识燕归来。",
+      "student_response": "花儿总要凋落让人无可奈何，似曾相识的春燕又归来。",
+      "score": 95
+    },
+    {
+      "reference": "小园香径独徘徊。",
+      "student_response": "独自在花香小径里徘徊。",
+      "score": 94
+    }
+] 
