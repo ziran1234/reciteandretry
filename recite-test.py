@@ -13,9 +13,9 @@ from modelscope import AutoTokenizer, AutoModel
 from sklearn.metrics import accuracy_score
 
 # 配置参数
-API_KEY = "yrwh3nyKdMae5766IpfEdbph"
-SECRET_KEY = "OMbwiOvpzpnx2fgrwQioCdJf9Vekb8IC"
-MODEL_PATH = "/home/humble/addition/paraphrase-multilingual-MiniLM-L12-v2"
+API_KEY = ""
+SECRET_KEY = ""
+MODEL_PATH = ""
 STUDENT_NAME = "同学"
 PAUSE_THRESHOLD = 0.3  # 基础停顿阈值（秒）
 VALID_PAUSE_WINDOW = 0.5  # 标点周围合理停顿区间（秒）
